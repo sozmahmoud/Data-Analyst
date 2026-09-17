@@ -2,6 +2,8 @@
 
 Welcome to my Data Analyst portfolio! 📊
 
+🔗 [Data Analysis Practice](https://github.com/sozmahmoud/Data-Analyst)
+
 This repository contains the projects and exercises I completed while studying the **Data Analyst course by Alex Freberg**.
 
 I completed this learning journey in **one month**, starting about **two months after graduating from college**. It has been an exciting step in continuing my education and building my career in the data field.
